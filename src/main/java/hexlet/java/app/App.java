@@ -5,5 +5,6 @@ package hexlet.java.app;
 
 public class App {
     public static void main(String[] args) {
+        System.out.println(SomeClass.sum(2,3));
     }
 }
